@@ -185,6 +185,7 @@ const data = [
 "Farewell Yllaena, I hope Singapore brings you peace.",
 "Goodluck sa Singapore, Yllaena. Kaya mo yan.",
 "Kahit malayo ka na, you’ll always be remembered here.",
+"Yuna, Raven, Marlin, Camille, Lorraine, Fatima will miss you.",
 "10 Mabini will miss you.",
 "And I will miss you the most… see you again 💔",
 "Kahit nasa Singapore ka na, nandito lang kami.",
@@ -221,7 +222,7 @@ big.innerHTML = `
 <div class="letter-inner">
   <div class="front">💔 ONE LAST LETTER</div>
   <div class="back">
-  yllaena i know you're scared about what the future has satin, but i pinky promise you, i will always be there for you, tho baka we wont be able to talk everyday by then since your parents, i will still love u always, if ever we end, i hope we find eachother again when the time is right!! i pinky promise u i am only proudly devoted to you yllaena, only you.
+  Yllaena, I know you're scared about what the future has ahead, but I pinky promise you—I will always be there for you. Kahit hindi na tayo makapag-usap araw-araw because of your parents, I will still love you always. If ever we end, I hope we find each other again when the time is right. I pinky promise I am proudly devoted to you, Yllaena… only you. 💔
   </div>
 </div>
 `;
